@@ -1,11 +1,3 @@
-# Olá, eu sou a Loana Morales! 👋
-
-🎓 **Estudante de Engenharia de Software** na UNINTER  
-💻 **Desenvolvedora Back-end em formação**  
-📍 Rio de Janeiro, Brasil 🇧🇷
-
----
-
 ## 👩‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software e estou construindo minha carreira na área de tecnologia.
@@ -19,27 +11,6 @@ Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot**, 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,vscode,idea,mysql" />
 </p>
-
----
-
-## 📚 Atualmente estudando
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🧩 Programação Orientada a Objetos
-- 🔗 APIs REST
-- 🗄️ Banco de Dados SQL
-- 🌐 HTML, CSS e JavaScript
-- 🛠️ Git e GitHub
-
----
-
-## 🎯 Objetivos
-
-- ✅ Desenvolver projetos próprios para meu portfólio
-- ✅ Aprimorar meus conhecimentos em Java e Spring Boot
-- ✅ Aprender boas práticas de desenvolvimento de software
-- ✅ Conquistar minha primeira oportunidade como Desenvolvedora
 
 ---
 
