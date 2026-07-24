@@ -16,10 +16,13 @@ Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot**, 
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loanamicaelamorales-del&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loanamicaelamorales-del&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=loanamicaelamorales-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loanamicaelamorales-del&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
