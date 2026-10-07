@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software e estou construindo minha carreira na área de tecnologia.
 
-Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot**, **Python** e desenvolvimento web, desenvolvendo projetos para fortalecer meu portfólio e conquistar minha primeira oportunidade como Desenvolvedora de Software.
+Atualmente, estou aprofundando meus conhecimentos em **Python**, **Spring Boot** e desenvolvimento web, desenvolvendo projetos para fortalecer meu portfólio e conquistar minha primeira oportunidade como Desenvolvedora de Software.
 
 ---
 
